@@ -8,4 +8,4 @@ Here is the architecture of the diagram
 ![alt text](https://github.com/KartikPadmanabhan/mle/blob/gh-pages/images/MLE.jpg)
 
 Graph:
-![![ScreenShot]https://cdn.rawgit.com/KartikPadmanabhan/mle/gh-pages/images/d3-globe-empty.png](https://plot.ly/~kpadmana/818.embed)
+![![ScreenShot](https://cdn.rawgit.com/KartikPadmanabhan/mle/gh-pages/images/d3-globe-empty.png)](https://plot.ly/~kpadmana/818.embed)

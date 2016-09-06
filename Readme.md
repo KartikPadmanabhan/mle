@@ -8,4 +8,4 @@ Here is the architecture of the diagram
 ![alt text](https://github.com/KartikPadmanabhan/mle/blob/gh-pages/images/MLE.jpg)
 
 Graph:
-[![ScreenShot](https://plot.ly/~kpadmana/818.embed)](https://plot.ly/~kpadmana/818.embed)
+![ScreenShot](https://plot.ly/~kpadmana/818.embed)
